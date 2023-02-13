@@ -33,5 +33,5 @@ jobs:
       with:
           context: .
           push: true
-          tags: latest
+          tags: dj2808/test:v1
 #           labels: ${{ steps.meta.outputs.labels }}
